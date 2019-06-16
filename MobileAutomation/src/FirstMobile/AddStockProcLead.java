@@ -19,7 +19,7 @@ public class AddStockProcLead extends CommonClassForMobile{
 		
 		log.info("Clicked on Leads Tab");
 		
-		System.out.println("Clicked on Leads Tab");
+		System.out.println("Clicked on Leads Tabs");
 		 	
 	 	driver.findElement(By.id("com.mfcwl.mfc_dealer:id/procLeads")).click();
 		
