@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77181" started-at="2019-03-01T11:11:39Z" finished-at="2019-03-01T11:12:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77181" started-at="2019-03-01T11:11:39Z" finished-at="2019-03-01T11:12:56Z">
+      <class name="FirstMobile.MarketTradeFilters4">
+        <test-method status="PASS" signature="setup()[pri:0, instance:FirstMobile.MarketTradeFilters4@490ab905]" name="setup" is-config="true" duration-ms="11453" started-at="2019-03-01T11:11:39Z" finished-at="2019-03-01T11:11:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Common()[pri:0, instance:FirstMobile.MarketTradeFilters4@490ab905]" name="Common" duration-ms="29767" started-at="2019-03-01T11:11:50Z" finished-at="2019-03-01T11:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Common -->
+        <test-method status="PASS" signature="FilterCrieteria()[pri:0, instance:FirstMobile.MarketTradeFilters4@490ab905]" name="FilterCrieteria" duration-ms="35937" started-at="2019-03-01T11:12:20Z" finished-at="2019-03-01T11:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilterCrieteria -->
+      </class> <!-- FirstMobile.MarketTradeFilters4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

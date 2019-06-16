@@ -1,0 +1,475 @@
+2019-02-20 12:36:57,591 INFO  [MainProcurementLead] Entered ID 
+2019-02-20 12:44:44,900 INFO  [MainProcurementLead] Entered ID 
+2019-02-20 12:44:47,414 INFO  [MainProcurementLead] Entered password 
+2019-02-20 12:44:52,312 INFO  [MainProcurementLead] clicked on login 
+2019-02-20 12:45:04,176 INFO  [MainProcurementLead] clicked on Home 
+2019-02-20 12:45:05,531 INFO  [MainProcurementLead] Clicked on Leads Tab 
+2019-02-20 12:45:09,964 INFO  [MainProcurementLead] Clicked on procLeads 
+2019-02-20 12:45:16,805 INFO  [MainProcurementLead] Clicked on Private Leads 
+2019-02-20 12:45:20,849 INFO  [MainProcurementLead] Clicked on recently added lead 
+2019-02-20 12:45:21,712 INFO  [MainProcurementLead] Clicked on Add as stock 
+2019-02-20 12:45:25,489 INFO  [MainProcurementLead] Clicked on stock category 
+2019-02-20 12:45:30,304 INFO  [MainProcurementLead] Entered Selling Price 
+2019-02-20 12:45:32,091 INFO  [MainProcurementLead] Entered Dealer Price 
+2019-02-20 12:45:39,578 INFO  [MainProcurementLead] Clicked on Next button 
+2019-02-20 12:45:40,925 INFO  [MainProcurementLead] Clicked on Chassis No 
+2019-02-20 12:45:41,750 INFO  [MainProcurementLead] Clicked on Engine No 
+2019-02-20 12:45:43,121 INFO  [MainProcurementLead] Clicked on Bought Price 
+2019-02-20 12:45:44,492 INFO  [MainProcurementLead] Clicked on Refurbishment Cost 
+2019-02-20 12:45:46,213 INFO  [MainProcurementLead] Selected CNG kit 
+2019-02-20 12:45:47,963 INFO  [MainProcurementLead] Entered Comments 
+2019-02-21 10:45:06,500 INFO  [MainProcurementLead] Entered ID 
+2019-02-21 10:45:09,093 INFO  [MainProcurementLead] Entered password 
+2019-02-21 10:45:13,964 INFO  [MainProcurementLead] clicked on login 
+2019-02-21 10:45:23,384 INFO  [MainProcurementLead] clicked on Home 
+2019-02-21 10:45:24,918 INFO  [MainProcurementLead] Clicked on Leads Tab 
+2019-02-21 10:45:29,358 INFO  [MainProcurementLead] Clicked on procLeads 
+2019-02-21 10:45:35,898 INFO  [MainProcurementLead] Clicked on Private Leads 
+2019-02-21 10:45:39,701 INFO  [MainProcurementLead] Clicked on recently added lead 
+2019-02-21 10:45:40,472 INFO  [MainProcurementLead] Clicked on Add as stock 
+2019-02-21 10:45:45,005 INFO  [MainProcurementLead] Clicked on stock category 
+2019-02-21 10:45:48,952 INFO  [MainProcurementLead] Entered Selling Price 
+2019-02-21 10:45:50,780 INFO  [MainProcurementLead] Entered Dealer Price 
+2019-02-21 10:45:57,599 INFO  [MainProcurementLead] Clicked on Next button 
+2019-02-21 10:45:58,891 INFO  [MainProcurementLead] Clicked on Chassis No 
+2019-02-21 10:46:00,635 INFO  [MainProcurementLead] Clicked on Engine No 
+2019-02-21 10:46:01,999 INFO  [MainProcurementLead] Clicked on Bought Price 
+2019-02-21 10:46:03,367 INFO  [MainProcurementLead] Clicked on Refurbishment Cost 
+2019-02-21 10:46:05,212 INFO  [MainProcurementLead] Selected CNG kit 
+2019-02-21 10:46:06,957 INFO  [MainProcurementLead] Entered Comments 
+2019-02-21 10:52:23,455 INFO  [MainProcurementLead] Entered password 
+2019-02-21 10:52:24,241 INFO  [MainProcurementLead] clicked on login 
+2019-02-21 10:52:35,767 INFO  [MainProcurementLead] clicked on Home 
+2019-02-21 10:52:39,504 INFO  [MainProcurementLead] clicked on + Icon 
+2019-02-21 10:52:41,092 INFO  [MainProcurementLead] clicked on Add procurement lead 
+2019-02-21 10:52:47,078 INFO  [MainProcurementLead] Selected Date 
+2019-02-21 10:52:51,977 INFO  [MainProcurementLead] Selected Lead status 
+2019-02-21 10:52:53,562 INFO  [MainProcurementLead] Entered Customer Name 
+2019-02-21 10:52:55,524 INFO  [MainProcurementLead] Entered Mobile No 
+2019-02-21 10:52:57,658 INFO  [MainProcurementLead] Entered EmailID 
+2019-02-21 10:53:00,078 INFO  [MainProcurementLead] Entered CustomerAddress 
+2019-02-21 10:53:02,062 INFO  [MainProcurementLead] Entered pincode 
+2019-02-21 10:53:09,549 INFO  [MainProcurementLead] Selected City 
+2019-02-21 10:53:15,655 INFO  [MainProcurementLead] Selected Manf. Year 
+2019-02-21 10:53:20,247 INFO  [MainProcurementLead] Selected Manf. Month 
+2019-02-21 10:53:25,026 INFO  [MainProcurementLead] Selected Colour 
+2019-02-21 10:53:28,062 INFO  [MainProcurementLead] Entered KM's 
+2019-02-21 10:53:33,041 INFO  [MainProcurementLead] Selected Owner 
+2019-02-21 10:53:37,516 INFO  [MainProcurementLead] Selected LeadSource 
+2019-02-21 10:53:42,199 INFO  [MainProcurementLead] Selected Make 
+2019-02-21 10:53:48,168 INFO  [MainProcurementLead] Selected ModelAndVariant 
+2019-02-21 10:53:49,705 INFO  [MainProcurementLead] Entered CustomerExpct 
+2019-02-21 10:53:51,683 INFO  [MainProcurementLead] Entered BuyingQuote 
+2019-02-21 10:53:58,567 INFO  [MainProcurementLead] Entered RegdYear 
+2019-02-21 10:54:02,980 INFO  [MainProcurementLead] Entered RegdMonth 
+2019-02-21 10:54:07,710 INFO  [MainProcurementLead] Entered RegdNo 
+2019-02-21 10:54:11,162 INFO  [MainProcurementLead] Selected Insurance 
+2019-02-21 10:54:14,127 INFO  [MainProcurementLead] Selected Date 
+2019-02-21 10:54:17,588 INFO  [MainProcurementLead] Entered RefSource 
+2019-02-21 10:54:20,760 INFO  [MainProcurementLead] Entered ExecInfo 
+2019-02-21 10:54:24,091 INFO  [MainProcurementLead] Entered StockVinNo 
+2019-02-21 10:54:27,687 INFO  [MainProcurementLead] Selected Date 
+2019-02-21 10:54:29,167 INFO  [MainProcurementLead] Entered Remark 
+2019-02-21 10:54:30,152 INFO  [MainProcurementLead] Clicked on Save Button 
+2019-02-21 10:54:35,029 INFO  [MainProcurementLead] Clicked on leadsTab 
+2019-02-21 10:54:39,999 INFO  [MainProcurementLead] Clicked on procLeads 
+2019-02-21 10:54:46,223 INFO  [MainProcurementLead] Clicked on Private Leads 
+2019-02-21 10:54:46,803 INFO  [MainProcurementLead] To Verify that the entered data is matching 
+2019-02-21 10:54:52,503 INFO  [MainProcurementLead] Verified with entered data and it is matching 
+2019-02-21 10:54:55,228 INFO  [MainProcurementLead] Screenshot has been taken and saved in E:\software\mobilescreenshot location 
+2019-02-21 10:54:58,826 INFO  [MainProcurementLead] Clicked on back Arrow 
+2019-02-21 10:55:16,382 INFO  [MainProcurementLead] Clicked on Menu Bar 
+2019-02-21 10:55:20,330 INFO  [MainProcurementLead] Clicked on LogOut Button 
+2019-02-21 10:55:22,498 INFO  [MainProcurementLead] Logged out 
+2019-02-21 10:57:31,653 INFO  [MainProcurementLead] Entered ID 
+2019-02-21 10:57:34,146 INFO  [MainProcurementLead] Entered password 
+2019-02-21 10:57:38,987 INFO  [MainProcurementLead] clicked on login 
+2019-02-21 10:57:53,394 INFO  [MainProcurementLead] clicked on Home 
+2019-02-21 10:57:54,524 INFO  [MainProcurementLead] Clicked on Leads Tab 
+2019-02-21 10:57:59,010 INFO  [MainProcurementLead] Clicked on procLeads 
+2019-02-21 10:58:05,775 INFO  [MainProcurementLead] Clicked on Private Leads 
+2019-02-21 10:58:09,562 INFO  [MainProcurementLead] Clicked on recently added lead 
+2019-02-21 10:58:10,401 INFO  [MainProcurementLead] Clicked on Add as stock 
+2019-02-21 10:58:13,932 INFO  [MainProcurementLead] Clicked on stock category 
+2019-02-21 10:58:18,893 INFO  [MainProcurementLead] Entered Selling Price 
+2019-02-21 10:58:20,539 INFO  [MainProcurementLead] Entered Dealer Price 
+2019-02-21 10:58:27,521 INFO  [MainProcurementLead] Clicked on Next button 
+2019-02-21 10:58:28,845 INFO  [MainProcurementLead] Clicked on Chassis No 
+2019-02-21 10:58:30,151 INFO  [MainProcurementLead] Clicked on Engine No 
+2019-02-21 10:58:31,503 INFO  [MainProcurementLead] Clicked on Bought Price 
+2019-02-21 10:58:32,884 INFO  [MainProcurementLead] Clicked on Refurbishment Cost 
+2019-02-21 10:58:35,515 INFO  [MainProcurementLead] Selected CNG kit 
+2019-02-21 10:58:36,403 INFO  [MainProcurementLead] Entered Comments 
+2019-02-21 10:58:39,925 INFO  [MainProcurementLead] Screenshot has been taken and saved in E:\software\mobilescreenshot location 
+2019-02-21 11:06:55,850 INFO  [MainProcurementLead] Entered password 
+2019-02-21 11:06:56,664 INFO  [MainProcurementLead] clicked on login 
+2019-02-21 11:07:07,502 INFO  [MainProcurementLead] clicked on Home 
+2019-02-21 11:07:11,552 INFO  [MainProcurementLead] clicked on + Icon 
+2019-02-21 11:08:12,296 INFO  [MainProcurementLead] Entered password 
+2019-02-21 11:08:13,105 INFO  [MainProcurementLead] clicked on login 
+2019-02-21 11:09:03,793 INFO  [MainProcurementLead] Entered password 
+2019-02-21 11:09:04,584 INFO  [MainProcurementLead] clicked on login 
+2019-02-21 11:09:14,940 INFO  [MainProcurementLead] clicked on Home 
+2019-02-21 11:09:18,997 INFO  [MainProcurementLead] clicked on + Icon 
+2019-02-21 11:09:20,795 INFO  [MainProcurementLead] clicked on Add procurement lead 
+2019-02-21 11:09:26,394 INFO  [MainProcurementLead] Selected Date 
+2019-02-21 11:09:31,400 INFO  [MainProcurementLead] Selected Lead status 
+2019-02-21 11:09:33,130 INFO  [MainProcurementLead] Entered Customer Name 
+2019-02-21 11:09:35,157 INFO  [MainProcurementLead] Entered Mobile No 
+2019-02-21 11:09:37,101 INFO  [MainProcurementLead] Entered EmailID 
+2019-02-21 11:09:39,062 INFO  [MainProcurementLead] Entered CustomerAddress 
+2019-02-21 11:09:41,086 INFO  [MainProcurementLead] Entered pincode 
+2019-02-21 11:09:46,868 INFO  [MainProcurementLead] Selected City 
+2019-02-21 11:09:53,216 INFO  [MainProcurementLead] Selected Manf. Year 
+2019-02-21 11:09:57,771 INFO  [MainProcurementLead] Selected Manf. Month 
+2019-02-21 11:10:03,205 INFO  [MainProcurementLead] Selected Colour 
+2019-02-21 11:10:06,474 INFO  [MainProcurementLead] Entered KM's 
+2019-02-21 11:10:11,394 INFO  [MainProcurementLead] Selected Owner 
+2019-02-21 11:10:15,953 INFO  [MainProcurementLead] Selected LeadSource 
+2019-02-21 11:10:20,719 INFO  [MainProcurementLead] Selected Make 
+2019-02-21 11:10:25,455 INFO  [MainProcurementLead] Selected ModelAndVariant 
+2019-02-21 11:10:26,972 INFO  [MainProcurementLead] Entered CustomerExpct 
+2019-02-21 11:10:28,940 INFO  [MainProcurementLead] Entered BuyingQuote 
+2019-02-21 11:10:33,815 INFO  [MainProcurementLead] Entered RegdYear 
+2019-02-21 11:10:37,563 INFO  [MainProcurementLead] Entered RegdMonth 
+2019-02-21 11:10:42,372 INFO  [MainProcurementLead] Entered RegdNo 
+2019-02-21 11:10:46,716 INFO  [MainProcurementLead] Selected Insurance 
+2019-02-21 11:10:49,583 INFO  [MainProcurementLead] Selected Date 
+2019-02-21 11:10:53,003 INFO  [MainProcurementLead] Entered RefSource 
+2019-02-21 11:10:57,335 INFO  [MainProcurementLead] Entered ExecInfo 
+2019-02-21 11:11:00,572 INFO  [MainProcurementLead] Entered StockVinNo 
+2019-02-21 11:11:04,070 INFO  [MainProcurementLead] Selected Date 
+2019-02-21 11:11:05,532 INFO  [MainProcurementLead] Entered Remark 
+2019-02-21 11:11:06,427 INFO  [MainProcurementLead] Clicked on Save Button 
+2019-02-21 11:11:11,043 INFO  [MainProcurementLead] Clicked on leadsTab 
+2019-02-21 11:11:16,003 INFO  [MainProcurementLead] Clicked on procLeads 
+2019-02-21 11:11:22,005 INFO  [MainProcurementLead] Clicked on Private Leads 
+2019-02-21 11:11:22,640 INFO  [MainProcurementLead] To Verify that the entered data is matching 
+2019-02-21 11:11:28,215 INFO  [MainProcurementLead] Verified with entered data and it is matching 
+2019-02-21 11:11:30,900 INFO  [MainProcurementLead] Screenshot has been taken and saved in E:\software\mobilescreenshot location 
+2019-02-21 11:11:31,475 INFO  [MainProcurementLead] Clicked on back Arrow 
+2019-02-21 11:11:34,059 INFO  [MainProcurementLead] Clicked on Menu Bar 
+2019-02-21 11:11:37,692 INFO  [MainProcurementLead] Clicked on LogOut Button 
+2019-02-21 11:11:39,904 INFO  [MainProcurementLead] Logged out 
+2019-02-21 11:24:05,435 INFO  [MainProcurementLead] Entered ID 
+2019-02-21 11:24:07,949 INFO  [MainProcurementLead] Entered password 
+2019-02-21 11:24:12,820 INFO  [MainProcurementLead] clicked on login 
+2019-02-21 11:24:23,723 INFO  [MainProcurementLead] clicked on Home 
+2019-02-21 11:24:24,786 INFO  [MainProcurementLead] Clicked on Leads Tab 
+2019-02-21 11:24:29,232 INFO  [MainProcurementLead] Clicked on procLeads 
+2019-02-21 11:24:36,617 INFO  [MainProcurementLead] Clicked on Private Leads 
+2019-02-21 11:24:40,469 INFO  [MainProcurementLead] Clicked on recently added lead 
+2019-02-21 11:24:41,237 INFO  [MainProcurementLead] Clicked on Add as stock 
+2019-02-21 11:24:45,786 INFO  [MainProcurementLead] Clicked on stock category 
+2019-02-21 11:24:49,399 INFO  [MainProcurementLead] Entered Selling Price 
+2019-02-21 11:24:51,127 INFO  [MainProcurementLead] Entered Dealer Price 
+2019-02-21 11:24:58,555 INFO  [MainProcurementLead] Clicked on Next button 
+2019-02-21 11:25:00,325 INFO  [MainProcurementLead] Clicked on Chassis No 
+2019-02-21 11:25:01,708 INFO  [MainProcurementLead] Clicked on Engine No 
+2019-02-21 11:25:03,027 INFO  [MainProcurementLead] Clicked on Bought Price 
+2019-02-21 11:25:04,392 INFO  [MainProcurementLead] Clicked on Refurbishment Cost 
+2019-02-21 11:25:07,074 INFO  [MainProcurementLead] Selected CNG kit 
+2019-02-21 11:25:07,444 INFO  [MainProcurementLead] Entered Comments 
+2019-02-21 11:25:13,141 INFO  [MainProcurementLead] Screenshot has been taken and saved in E:\software\mobilescreenshot location 
+2019-02-25 15:02:26,490 INFO  [MainProcurementLead] Entered password 
+2019-02-25 15:02:27,332 INFO  [MainProcurementLead] clicked on login 
+2019-02-25 15:02:39,568 INFO  [MainProcurementLead] clicked on Home 
+2019-02-25 15:02:43,702 INFO  [MainProcurementLead] clicked on + Icon 
+2019-02-25 15:02:45,558 INFO  [MainProcurementLead] clicked on Add procurement lead 
+2019-02-25 16:04:08,582 INFO  [MainProcurementLead] Entered password 
+2019-02-25 16:04:09,494 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 11:24:19,301 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 11:24:21,908 INFO  [MainProcurementLead] Entered password 
+2019-02-26 11:24:26,788 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 11:24:36,829 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 11:36:37,168 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 11:36:39,771 INFO  [MainProcurementLead] Entered password 
+2019-02-26 11:36:44,673 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 11:36:55,604 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 11:52:02,944 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 11:52:05,507 INFO  [MainProcurementLead] Entered password 
+2019-02-26 11:52:10,391 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 11:52:21,021 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 11:54:38,084 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 11:54:40,567 INFO  [MainProcurementLead] Entered password 
+2019-02-26 11:54:45,432 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 11:54:54,878 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 12:00:46,507 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 12:00:49,029 INFO  [MainProcurementLead] Entered password 
+2019-02-26 12:00:53,889 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 12:01:03,156 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 12:34:52,682 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 12:34:55,157 INFO  [MainProcurementLead] Entered password 
+2019-02-26 12:35:00,033 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 12:35:13,732 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 12:39:34,906 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 12:39:37,398 INFO  [MainProcurementLead] Entered password 
+2019-02-26 12:39:42,208 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 12:39:52,554 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 15:43:16,317 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 15:43:18,812 INFO  [MainProcurementLead] Entered password 
+2019-02-26 15:43:23,734 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 15:43:33,422 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 15:51:43,502 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 15:51:46,036 INFO  [MainProcurementLead] Entered password 
+2019-02-26 15:51:50,880 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 15:52:02,077 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 17:09:29,755 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 17:09:32,121 INFO  [MainProcurementLead] Entered password 
+2019-02-26 17:09:36,940 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 17:09:47,750 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 17:15:59,106 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 17:16:02,072 INFO  [MainProcurementLead] Entered password 
+2019-02-26 17:16:06,955 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 17:16:17,246 INFO  [MainProcurementLead] clicked on Home 
+2019-02-26 17:17:21,002 INFO  [MainProcurementLead] Entered ID 
+2019-02-26 17:17:23,508 INFO  [MainProcurementLead] Entered password 
+2019-02-26 17:17:28,330 INFO  [MainProcurementLead] clicked on login 
+2019-02-26 17:17:38,855 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 11:32:27,788 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 11:32:30,297 INFO  [MainProcurementLead] Entered password 
+2019-02-27 11:32:35,130 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 11:32:44,305 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 11:34:25,829 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 11:34:28,322 INFO  [MainProcurementLead] Entered password 
+2019-02-27 11:34:33,119 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 11:34:42,192 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 11:36:32,498 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 11:36:34,986 INFO  [MainProcurementLead] Entered password 
+2019-02-27 11:36:39,809 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 11:36:50,515 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 11:38:00,526 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 11:38:03,102 INFO  [MainProcurementLead] Entered password 
+2019-02-27 11:38:07,926 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 11:38:41,482 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 11:38:43,949 INFO  [MainProcurementLead] Entered password 
+2019-02-27 11:38:48,752 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 11:38:57,670 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:15:46,089 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:15:48,607 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:15:53,408 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:16:02,877 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:18:15,098 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:18:17,615 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:18:22,438 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:18:31,491 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:19:40,807 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:19:43,232 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:19:48,075 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:20:19,120 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:20:21,621 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:20:26,443 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:20:36,737 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:21:45,125 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:21:47,614 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:21:52,442 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:22:29,195 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:22:31,689 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:22:36,502 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:22:45,607 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:23:50,673 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:23:53,108 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:23:57,923 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:24:52,181 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:24:54,651 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:24:59,467 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:25:09,659 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:27:11,928 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:27:14,404 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:27:19,228 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:27:29,554 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:28:44,885 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:28:47,343 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:28:52,160 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:29:00,826 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:30:03,732 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:30:06,223 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:30:11,009 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:30:58,012 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:31:00,506 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:31:05,292 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:31:13,878 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:41:15,798 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:41:18,664 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:41:23,728 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:41:32,595 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:46:17,978 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:46:20,481 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:46:25,325 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:46:33,465 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:48:33,460 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:48:35,912 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:48:40,771 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:48:48,999 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 12:52:31,521 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 12:52:34,000 INFO  [MainProcurementLead] Entered password 
+2019-02-27 12:52:38,797 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 12:52:47,568 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 14:48:30,131 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 14:48:32,749 INFO  [MainProcurementLead] Entered password 
+2019-02-27 14:48:37,636 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 14:48:47,379 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 14:53:58,521 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 14:54:01,493 INFO  [MainProcurementLead] Entered password 
+2019-02-27 14:54:06,356 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 14:54:14,970 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 14:56:09,949 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 14:56:12,469 INFO  [MainProcurementLead] Entered password 
+2019-02-27 14:56:17,295 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 14:56:26,036 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 15:16:11,441 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 15:16:14,205 INFO  [MainProcurementLead] Entered password 
+2019-02-27 15:16:19,330 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 15:16:28,177 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 16:31:55,142 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 16:31:58,121 INFO  [MainProcurementLead] Entered password 
+2019-02-27 16:32:02,963 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 16:32:14,644 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 16:33:51,137 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 16:33:53,657 INFO  [MainProcurementLead] Entered password 
+2019-02-27 16:33:58,477 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 16:34:06,700 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 16:40:37,488 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 16:40:39,973 INFO  [MainProcurementLead] Entered password 
+2019-02-27 16:40:44,808 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 16:40:54,113 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 16:43:40,156 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 16:43:42,660 INFO  [MainProcurementLead] Entered password 
+2019-02-27 16:43:47,840 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 16:43:56,536 INFO  [MainProcurementLead] clicked on Home 
+2019-02-27 16:46:29,726 INFO  [MainProcurementLead] Entered ID 
+2019-02-27 16:46:32,228 INFO  [MainProcurementLead] Entered password 
+2019-02-27 16:46:37,084 INFO  [MainProcurementLead] clicked on login 
+2019-02-27 16:46:47,137 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 11:18:19,485 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 11:18:22,102 INFO  [MainProcurementLead] Entered password 
+2019-02-28 11:18:26,959 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 11:18:34,011 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 13:13:00,844 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 13:13:03,813 INFO  [MainProcurementLead] Entered password 
+2019-02-28 13:13:08,686 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 13:13:18,421 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 14:52:20,885 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 14:52:23,451 INFO  [MainProcurementLead] Entered password 
+2019-02-28 14:52:28,345 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 14:52:38,247 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 14:59:29,286 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 14:59:31,857 INFO  [MainProcurementLead] Entered password 
+2019-02-28 14:59:36,742 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 14:59:45,789 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:01:16,808 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:01:19,768 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:01:24,606 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:01:33,746 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:05:03,216 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:05:05,675 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:05:10,474 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:05:20,729 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:07:53,556 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:07:56,147 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:08:01,045 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:08:10,213 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:10:08,086 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:10:10,626 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:10:15,462 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:10:25,610 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:13:54,350 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:13:57,227 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:14:02,343 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:14:11,711 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:19:27,456 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:19:30,258 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:19:35,077 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:19:43,395 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:34:55,828 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:34:58,366 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:35:03,188 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:35:13,142 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:55:39,549 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:55:42,111 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:55:46,947 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:55:56,072 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:57:16,435 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:57:18,993 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:57:23,845 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:57:32,128 INFO  [MainProcurementLead] clicked on Home 
+2019-02-28 15:58:32,653 INFO  [MainProcurementLead] Entered ID 
+2019-02-28 15:58:35,251 INFO  [MainProcurementLead] Entered password 
+2019-02-28 15:58:40,060 INFO  [MainProcurementLead] clicked on login 
+2019-02-28 15:58:48,400 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 10:31:53,641 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 10:31:55,923 INFO  [MainProcurementLead] Entered password 
+2019-03-01 10:32:00,756 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 10:32:08,625 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 10:33:07,454 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 10:33:10,005 INFO  [MainProcurementLead] Entered password 
+2019-03-01 10:33:14,849 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 10:33:23,863 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 11:00:27,186 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 11:00:29,684 INFO  [MainProcurementLead] Entered password 
+2019-03-01 11:00:34,622 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 11:00:43,570 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 11:02:56,716 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 11:02:59,674 INFO  [MainProcurementLead] Entered password 
+2019-03-01 11:03:04,523 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 11:03:13,542 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 11:04:52,160 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 11:04:55,014 INFO  [MainProcurementLead] Entered password 
+2019-03-01 11:05:00,078 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 11:05:09,202 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 11:08:17,014 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 11:08:19,610 INFO  [MainProcurementLead] Entered password 
+2019-03-01 11:08:24,415 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 11:08:33,555 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 14:57:42,794 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 14:57:45,262 INFO  [MainProcurementLead] Entered password 
+2019-03-01 14:57:50,096 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 14:57:59,328 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:01:49,231 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:01:51,909 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:01:56,741 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:02:05,436 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:07:04,314 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:07:06,927 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:07:11,769 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:07:21,241 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:23:16,381 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:23:19,313 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:23:24,477 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:23:33,357 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:42:38,565 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:42:41,447 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:42:46,312 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:42:54,477 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:46:04,327 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:46:06,837 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:46:12,561 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:46:21,572 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:51:48,013 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:51:50,529 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:51:55,360 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:52:04,310 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:54:11,879 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:54:14,439 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:54:19,302 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:54:28,105 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 15:57:51,645 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 15:57:54,134 INFO  [MainProcurementLead] Entered password 
+2019-03-01 15:57:58,963 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 15:58:08,421 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 16:00:26,753 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 16:00:29,608 INFO  [MainProcurementLead] Entered password 
+2019-03-01 16:00:34,400 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 16:00:43,124 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 16:38:47,709 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 16:38:50,193 INFO  [MainProcurementLead] Entered password 
+2019-03-01 16:38:55,024 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 16:39:02,050 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 16:40:22,095 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 16:40:24,580 INFO  [MainProcurementLead] Entered password 
+2019-03-01 16:40:29,384 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 16:40:38,058 INFO  [MainProcurementLead] clicked on Home 
+2019-03-01 16:42:04,061 INFO  [MainProcurementLead] Entered ID 
+2019-03-01 16:42:06,576 INFO  [MainProcurementLead] Entered password 
+2019-03-01 16:42:11,421 INFO  [MainProcurementLead] clicked on login 
+2019-03-01 16:42:20,264 INFO  [MainProcurementLead] clicked on Home 
